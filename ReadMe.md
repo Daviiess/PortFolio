@@ -8,7 +8,7 @@ Crafted with clean HTML, CSS, and JavaScript, this portfolio emphasizes modern f
 
 #  Live Website
 
- [fasakin-david.netlify.app](https://fasakin-david.netlify.app) 
+ [Live gitHub link](https://fasakin-david.netlify.app) 
 
 
 
