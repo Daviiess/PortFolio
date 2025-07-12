@@ -540,7 +540,7 @@ transition: all 0.4s ease-in-out;
     transition-delay: 2.40s; 
 }
 
-@media (min-width: 300px) and (max-width:420px){
+@media (max-width:420px){
 
 
 
@@ -560,7 +560,7 @@ align-items: center;
     }
     .nav-bar{
     position: absolute;
-    top: 75%;
+    top: 55%;
     left: 55%;
     width: 45.2%;
     display: flex;
